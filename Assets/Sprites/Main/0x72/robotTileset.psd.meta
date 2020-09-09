@@ -1,0 +1,4663 @@
+fileFormatVersion: 2
+guid: 1050ee40eb8a2ba459c29bf461db97c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: robotTileset_0
+  - first:
+      213: 21300002
+    second: robotTileset_1
+  - first:
+      213: 21300004
+    second: robotTileset_2
+  - first:
+      213: 21300006
+    second: robotTileset_3
+  - first:
+      213: 21300008
+    second: robotTileset_4
+  - first:
+      213: 21300010
+    second: robotTileset_5
+  - first:
+      213: 21300012
+    second: robotTileset_6
+  - first:
+      213: 21300014
+    second: robotTileset_7
+  - first:
+      213: 21300016
+    second: robotTileset_8
+  - first:
+      213: 21300018
+    second: robotTileset_9
+  - first:
+      213: 21300020
+    second: robotTileset_10
+  - first:
+      213: 21300022
+    second: robotTileset_11
+  - first:
+      213: 21300024
+    second: robotTileset_12
+  - first:
+      213: 21300026
+    second: robotTileset_13
+  - first:
+      213: 21300028
+    second: robotTileset_14
+  - first:
+      213: 21300030
+    second: robotTileset_15
+  - first:
+      213: 21300032
+    second: robotTileset_16
+  - first:
+      213: 21300034
+    second: robotTileset_17
+  - first:
+      213: 21300036
+    second: robotTileset_18
+  - first:
+      213: 21300038
+    second: robotTileset_19
+  - first:
+      213: 21300040
+    second: robotTileset_20
+  - first:
+      213: 21300042
+    second: robotTileset_21
+  - first:
+      213: 21300044
+    second: robotTileset_22
+  - first:
+      213: 21300046
+    second: robotTileset_23
+  - first:
+      213: 21300048
+    second: robotTileset_24
+  - first:
+      213: 21300050
+    second: robotTileset_25
+  - first:
+      213: 21300052
+    second: robotTileset_26
+  - first:
+      213: 21300054
+    second: robotTileset_27
+  - first:
+      213: 21300056
+    second: robotTileset_28
+  - first:
+      213: 21300058
+    second: robotTileset_29
+  - first:
+      213: 21300060
+    second: robotTileset_30
+  - first:
+      213: 21300062
+    second: robotTileset_31
+  - first:
+      213: 21300064
+    second: robotTileset_32
+  - first:
+      213: 21300066
+    second: robotTileset_33
+  - first:
+      213: 21300068
+    second: robotTileset_34
+  - first:
+      213: 21300070
+    second: robotTileset_35
+  - first:
+      213: 21300072
+    second: robotTileset_36
+  - first:
+      213: 21300074
+    second: robotTileset_37
+  - first:
+      213: 21300076
+    second: robotTileset_38
+  - first:
+      213: 21300078
+    second: robotTileset_39
+  - first:
+      213: 21300080
+    second: robotTileset_40
+  - first:
+      213: 21300082
+    second: robotTileset_41
+  - first:
+      213: 21300084
+    second: robotTileset_42
+  - first:
+      213: 21300086
+    second: robotTileset_43
+  - first:
+      213: 21300088
+    second: robotTileset_44
+  - first:
+      213: 21300090
+    second: robotTileset_45
+  - first:
+      213: 21300092
+    second: robotTileset_46
+  - first:
+      213: 21300094
+    second: robotTileset_47
+  - first:
+      213: 21300096
+    second: robotTileset_48
+  - first:
+      213: 21300098
+    second: robotTileset_49
+  - first:
+      213: 21300100
+    second: robotTileset_50
+  - first:
+      213: 21300102
+    second: robotTileset_51
+  - first:
+      213: 21300104
+    second: robotTileset_52
+  - first:
+      213: 21300106
+    second: robotTileset_53
+  - first:
+      213: 21300108
+    second: robotTileset_54
+  - first:
+      213: 21300110
+    second: robotTileset_55
+  - first:
+      213: 21300112
+    second: robotTileset_56
+  - first:
+      213: 21300114
+    second: robotTileset_57
+  - first:
+      213: 21300116
+    second: robotTileset_58
+  - first:
+      213: 21300118
+    second: robotTileset_59
+  - first:
+      213: 21300120
+    second: robotTileset_60
+  - first:
+      213: 21300122
+    second: robotTileset_61
+  - first:
+      213: 21300124
+    second: robotTileset_62
+  - first:
+      213: 21300126
+    second: robotTileset_63
+  - first:
+      213: 21300128
+    second: robotTileset_64
+  - first:
+      213: 21300130
+    second: robotTileset_65
+  - first:
+      213: 21300132
+    second: robotTileset_66
+  - first:
+      213: 21300134
+    second: robotTileset_67
+  - first:
+      213: 21300136
+    second: robotTileset_68
+  - first:
+      213: 21300138
+    second: robotTileset_69
+  - first:
+      213: 21300140
+    second: robotTileset_70
+  - first:
+      213: 21300142
+    second: robotTileset_71
+  - first:
+      213: 21300144
+    second: robotTileset_72
+  - first:
+      213: 21300146
+    second: robotTileset_73
+  - first:
+      213: 21300148
+    second: robotTileset_74
+  - first:
+      213: 21300150
+    second: robotTileset_75
+  - first:
+      213: 21300152
+    second: robotTileset_76
+  - first:
+      213: 21300154
+    second: robotTileset_77
+  - first:
+      213: 21300156
+    second: robotTileset_78
+  - first:
+      213: 21300158
+    second: robotTileset_79
+  - first:
+      213: 21300160
+    second: robotTileset_80
+  - first:
+      213: 21300162
+    second: robotTileset_81
+  - first:
+      213: 21300164
+    second: robotTileset_82
+  - first:
+      213: 21300166
+    second: robotTileset_83
+  - first:
+      213: 21300168
+    second: robotTileset_84
+  - first:
+      213: 21300170
+    second: robotTileset_85
+  - first:
+      213: 21300172
+    second: robotTileset_86
+  - first:
+      213: 21300174
+    second: robotTileset_87
+  - first:
+      213: 21300176
+    second: robotTileset_88
+  - first:
+      213: 21300178
+    second: robotTileset_89
+  - first:
+      213: 21300180
+    second: robotTileset_90
+  - first:
+      213: 21300182
+    second: robotTileset_91
+  - first:
+      213: 21300184
+    second: robotTileset_92
+  - first:
+      213: 21300186
+    second: robotTileset_93
+  - first:
+      213: 21300188
+    second: robotTileset_94
+  - first:
+      213: 21300190
+    second: robotTileset_95
+  - first:
+      213: 21300192
+    second: robotTileset_96
+  - first:
+      213: 21300194
+    second: robotTileset_97
+  - first:
+      213: 21300196
+    second: robotTileset_98
+  - first:
+      213: 21300198
+    second: robotTileset_99
+  - first:
+      213: 21300200
+    second: robotTileset_100
+  - first:
+      213: 21300202
+    second: robotTileset_101
+  - first:
+      213: 21300204
+    second: robotTileset_102
+  - first:
+      213: 21300206
+    second: robotTileset_103
+  - first:
+      213: 21300208
+    second: robotTileset_104
+  - first:
+      213: 21300210
+    second: robotTileset_105
+  - first:
+      213: 21300212
+    second: robotTileset_106
+  - first:
+      213: 21300214
+    second: robotTileset_107
+  - first:
+      213: 21300216
+    second: robotTileset_108
+  - first:
+      213: 21300218
+    second: robotTileset_109
+  - first:
+      213: 21300220
+    second: robotTileset_110
+  - first:
+      213: 21300222
+    second: robotTileset_111
+  - first:
+      213: 21300224
+    second: robotTileset_112
+  - first:
+      213: 21300226
+    second: robotTileset_113
+  - first:
+      213: 21300228
+    second: robotTileset_114
+  - first:
+      213: 21300230
+    second: robotTileset_115
+  - first:
+      213: 21300232
+    second: robotTileset_116
+  - first:
+      213: 21300234
+    second: robotTileset_117
+  - first:
+      213: 21300236
+    second: robotTileset_118
+  - first:
+      213: 21300238
+    second: robotTileset_119
+  - first:
+      213: 21300240
+    second: robotTileset_120
+  - first:
+      213: 21300242
+    second: robotTileset_121
+  - first:
+      213: 21300244
+    second: robotTileset_122
+  - first:
+      213: 21300246
+    second: robotTileset_123
+  - first:
+      213: 21300248
+    second: robotTileset_124
+  - first:
+      213: 21300250
+    second: robotTileset_125
+  - first:
+      213: 21300252
+    second: robotTileset_126
+  - first:
+      213: 21300254
+    second: robotTileset_127
+  - first:
+      213: 21300256
+    second: robotTileset_128
+  - first:
+      213: 21300258
+    second: robotTileset_129
+  - first:
+      213: 21300260
+    second: robotTileset_130
+  - first:
+      213: 21300262
+    second: robotTileset_131
+  - first:
+      213: 21300264
+    second: robotTileset_132
+  - first:
+      213: 21300266
+    second: robotTileset_133
+  - first:
+      213: 21300268
+    second: robotTileset_134
+  - first:
+      213: 21300270
+    second: robotTileset_135
+  - first:
+      213: 21300272
+    second: robotTileset_136
+  - first:
+      213: 21300274
+    second: robotTileset_137
+  - first:
+      213: 21300276
+    second: robotTileset_138
+  - first:
+      213: 21300278
+    second: robotTileset_139
+  - first:
+      213: 21300280
+    second: robotTileset_140
+  - first:
+      213: 21300282
+    second: robotTileset_141
+  - first:
+      213: 21300284
+    second: robotTileset_142
+  - first:
+      213: 21300286
+    second: robotTileset_143
+  - first:
+      213: 21300288
+    second: robotTileset_144
+  - first:
+      213: 21300290
+    second: robotTileset_145
+  - first:
+      213: 21300292
+    second: robotTileset_146
+  - first:
+      213: 21300294
+    second: robotTileset_147
+  - first:
+      213: 21300296
+    second: robotTileset_148
+  - first:
+      213: 21300298
+    second: robotTileset_149
+  - first:
+      213: 21300300
+    second: robotTileset_150
+  - first:
+      213: 21300302
+    second: robotTileset_151
+  - first:
+      213: 21300304
+    second: robotTileset_152
+  - first:
+      213: 21300306
+    second: robotTileset_153
+  - first:
+      213: 21300308
+    second: robotTileset_154
+  - first:
+      213: 21300310
+    second: robotTileset_155
+  - first:
+      213: 21300312
+    second: robotTileset_156
+  - first:
+      213: 21300314
+    second: robotTileset_157
+  - first:
+      213: 21300316
+    second: robotTileset_158
+  - first:
+      213: 21300318
+    second: robotTileset_159
+  - first:
+      213: 21300320
+    second: robotTileset_160
+  - first:
+      213: 21300322
+    second: robotTileset_161
+  - first:
+      213: 21300324
+    second: robotTileset_162
+  - first:
+      213: 21300326
+    second: robotTileset_163
+  - first:
+      213: 21300328
+    second: robotTileset_164
+  - first:
+      213: 21300330
+    second: robotTileset_165
+  - first:
+      213: 21300332
+    second: robotTileset_166
+  - first:
+      213: 21300334
+    second: robotTileset_167
+  - first:
+      213: 21300336
+    second: robotTileset_168
+  - first:
+      213: 21300338
+    second: robotTileset_169
+  - first:
+      213: 21300340
+    second: robotTileset_170
+  - first:
+      213: 21300342
+    second: robotTileset_171
+  - first:
+      213: 21300344
+    second: robotTileset_172
+  - first:
+      213: 21300346
+    second: robotTileset_173
+  - first:
+      213: 21300348
+    second: robotTileset_174
+  - first:
+      213: 21300350
+    second: robotTileset_175
+  - first:
+      213: 21300352
+    second: robotTileset_176
+  - first:
+      213: 21300354
+    second: robotTileset_177
+  - first:
+      213: 21300356
+    second: robotTileset_178
+  - first:
+      213: 21300358
+    second: robotTileset_179
+  - first:
+      213: 21300360
+    second: robotTileset_180
+  - first:
+      213: 21300362
+    second: robotTileset_181
+  - first:
+      213: 21300364
+    second: robotTileset_182
+  - first:
+      213: 21300366
+    second: robotTileset_183
+  - first:
+      213: 21300368
+    second: robotTileset_184
+  - first:
+      213: 21300370
+    second: robotTileset_185
+  - first:
+      213: 21300372
+    second: robotTileset_186
+  - first:
+      213: 21300374
+    second: robotTileset_187
+  - first:
+      213: 21300376
+    second: robotTileset_188
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robotTileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471e337b350cb248938a5b4e0bc2f0f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89c34283b684d44ca3b40a3a1cc857c
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 221
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956305ca31dfda141afdd1eb007743a7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 237
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0086e854fe3117478bedbda1a522173
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 260
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131b11c8f822c24597a422dcbc589a9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 253
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482859e457fdb3d4d8541db6b024a1d1
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 237
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999dd1d92978d56448c2f6d83289af54
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 237
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb62bfef871f54cb39439e538bb5ed
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 221
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ff92570981e5e4d9af9691016dcacb
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeffb4832da4e043a92a5cdc284c522
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d50bdf74907d444b9bbafe309b1ea6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981974b7c244c31408b947ff90b5c175
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78636d9b9d72bca40a17bca6d65ac71d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375cd4a970e001f4bb8429ec4d3c2a78
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fd56545f5f7a4abc85a7a998ea3cf
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 205
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8833134a2f34b40b7f753788ab80b4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe8df804a58554ea80715994771c4c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e057fbb79c14464ba767622e7118925
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d924e4a15c1b0419384c01d873fb39
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0875ecec1867bc45892b4c21331d8f6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b9549e264145479728d2debecc688
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e97578c7fd5c4f44963362b45e33a4a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf9b0b7335c086419c9697310e678c8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf7db06b0c24047b371d616937dc8c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41a45b2f24bd444b638601dae009c8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd4051299ed57047b7c332ce0901af5
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a568a651cad63043857100213d4159a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc52cc15ae276e5468efccc1fc65c62b
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1b8c3bd940e34f871822bac9dbed6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2defff77cbfdeeb4998e77a664ef36e7
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07582887661fb494c93dfb15a3d6c617
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d12674183e864d803e620ab0382ce
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ea6c1b7ea7874d999fb234059ffc7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 229
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c31e7672e44af4bab5a0e231edb758
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 245
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192370d4b6d55c49a61c90f25bbb482
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 253
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd32840bc39f51a4cac7c0b5c90a953e
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 253
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f708279952b0b479d4927df85d3ab9
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 261
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bf16ef0c4cd1419780d2d529ab816
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 277
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b4f16ba4450e4488ec5eacea2185d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 269
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3601a97030e4804fa23432f0c1c54f6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 269
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d2fb30885343a4f926754ea24c3599
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 269
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57dc95842666742b4c506793978c24
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57827a6e96463bf498b45e40fc3dab9c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_43
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 237
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70316663b4a38d04699259706ba1dcec
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee779c41d41234cb0452320d9e1d4d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9f6626db27f3449069a07a38aec4f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 145
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2adecd94a1484a9c8bb06b82fd841
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be443a44599319546abd063dc84de774
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759a12a9b44fe14ea770fd92139ef6f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37333de0a105c304cad21ad29906a681
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c27f1012060ae4ea4af12bc44ef57a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f3c6bd75381d4d91369f6ea5bcc8e
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14081aa8a72817942bd21d9b8fb3e4e3
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c97f8642ba314c99b3e96d33a5f08
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df31fd93d971d4abf1d611bbc60179
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65889307f78f85e459c8e796b6f38fa4
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 30
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026df8c43cf92a4dbbedc9111f621ee
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 77
+        width: 14
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d58cb081c7e57243a1b9310b93515eb
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 63
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903682f07e6c69f45a65cd7a7f9f6479
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc3283d428fdd04ab7a2b57b88bdbcd
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 30
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186d8ee634dc9d34cb978b0f9f31a760
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 30
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b1eaadc473954596e9f7036d4a892
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 93
+        width: 14
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0570b17d0207f46beab69d040330a7
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 14
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc4cc51afa00240a718e425161f382
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 61
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93359aa025b4342968d1b6f0497086
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df17d4c46a8cdb4192985d1ee9b813a
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e8434ebe4ce05439e5af89db994920
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 94
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a01d088bc26bb94f8be9a6261468f74
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fa71b251e944b4e9db313813880e3d
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 62
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd90a81a2b22d459fed04aa94b1172
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 62
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6b45b0f8ab1642a58ade8ed21f7fe
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f28e1c93b049f6489bde1ad2cf3c663
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa408d04bb91e41988a88bcf691099
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d9552d764a0684c99847e21eb2bee9
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_74
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 120
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a05b33cf111654d9204043beb8bd78
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 118
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd92aeb8873d4442a13494e24a5817d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 123
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac29744ba823b4d809227cb6fd3b1a
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7cd8350a45ee449ac5a9045a2970c
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_78
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 125
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e72abca508ecf41adaa3387b548c95
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 2
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343373ed68b771641bcb7f4b2db407d9
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b574d4f6b2658564a9e46f7ca5906cee
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 101
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb54e5c82a2da4a8b91d3041a63ddb
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_82
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 101
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f201ec8797151546a522142031d282d
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 61
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2b926b6a544e74a815d30d11384709
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 61
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6bdbbd66708bb49a30cb90fe9623b8
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fa5b15d377fae4fb97a500b039cb81
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_86
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d15ccbfc3a27314c8eccb72054a39f5
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_87
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7bb8a21ba9ff04e9f8e9f08772daf7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c4496b82ed094ba099968de12f624
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd5198f643f0654dad79e784d3b075f
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_90
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9217a2d02aa44f9320ab2ddd67d25
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_91
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529f0378635c6d549bb8b91643736892
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3584ebfcd95f523429c1257b392e720d
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_93
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312dcb189a1ada14791a1aa02cb32192
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_94
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7513a851f0b943938992ac3ec67b3
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b492e0ea93e44a9ea46b40a97a3a5
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_96
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 256
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663083df0287a7947aaa34db3a93c020
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_97
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66056bc67316247977c867cb7b640c
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_98
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ab2ac3cb96fef4b87794b39cfc8dfc
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2691e3d11450fc840a4349692cdd200f
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_100
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bdae9973beaa24aac0869453f8886b
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_101
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78114f4d04ca09a429e32729df86b143
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f734094e693ac48ab733248be10407
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ed8a26f300924ba8bf9ab07ed85a7
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_104
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d413e52a62b981f4cbcd3fae28890dcb
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_105
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae21f2eab29529468a0f2186b9e9b7c
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b34b9672ecdc54094ab71af14cdfd2
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697bce8c2bd0134f822870c1c72d3d6
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 224
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a50108d517414baa4da409e8ad9b0
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_109
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d067f2f9363e7e4391bef0c4fe02b9c
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65be2305119b024db5aca57450d36f7
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016716752cd7a544891a92768170fe2
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_112
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96787349718b9f64bab8a8bb53327578
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f546c701c99e418395cac26056825
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294107f4941a85540bf8eaa61165dfb6
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35676a824372774d8ac0c6e3777f093
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_116
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91e35356a2793c4a87b46ab32fc987c
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_117
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e370edefb4d1643b0a69c4fe7abcf7
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_118
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942b518b3c624140855d583645aecf3
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_119
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d836aca3174a54c8f33e3036456523
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_120
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2e0309a88ed84887a315b5b8078f7
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_121
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7a3daa330e914ab7101b7f9bc01f2
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_122
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995fa074705fdf24dbc1492bbcb57e2b
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac42e8013706a54d839892e9ab63016
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_124
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e315b2cf4a2ae446b5488ce944492ec
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa663b2709a7247b2553178a889727
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_126
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea528344f10631469afdf512fe01c30
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_127
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a70f079c00424586d53e5ebfa3e41
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_128
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 160
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2177967ff203d5c46969313de20de8dc
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_129
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1cb0b7f7f5cfe47af98a99c3a9db2d
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_130
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f40d5e2674ea46983bfb96581746a
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_131
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9092632c2f4f1b4e81744f04fd59602
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_132
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae17d673c790de4f9826fd85384477a
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_133
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4fda1e84c58648a55aad97dcfdd72
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_134
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa086bf7357dbd4aa83ebaee7a2a3ba
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_135
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a003ab17c153c4a4caf22860d6f99743
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_136
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23722544c1ba42c4a98a009f50de115d
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_137
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9dad2a53ad55a4c9c9b1e9ab1d63eb
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_138
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923dc38e83a9e44484f6f1bb7b9e0a0
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_139
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395fb9665e399740a19a033e714d61a
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_140
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 128
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1670f675baed4288c23e20ee36a9a
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_141
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce656c813414441b0ade14eb0956b4
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_142
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a602dafd5e6479e4f92c4a16e60a7087
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_143
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1f188331b20d498437dcc5248e282
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_144
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b22ecfd5bb23754e91e33014266ecf4
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_145
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829bf13d31a722f4d96bd64cf1252636
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_146
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d29516e5087cf644b8206a14e337395
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_147
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24908438dbb2e48878de3a0d87c235
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_148
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901fecdcf75256a45b12f89677bd649e
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_149
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad85b675aa3e7fa4b88e21c3a50bdab3
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_150
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4e00ff81af264eaee99f96ab83279
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b77ff52eab8004494ae28bb92c7a7c
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_152
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64705ba7162f3e143953f4663d91a1dc
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_153
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578eb77d8c865f1448df252292968e8b
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b219e16f2b50054c9d9dd814f133600
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_155
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3366c64f1682848beff34424ff47ba
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_156
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb947466e5f434a922384a95c8f5f8
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_157
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ac3256427f2d44987d678d62d2634
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba702b77e714b4eb0647f48a5ddd39
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c78d93bae72649ac3f1e025109047
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_160
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c7aeb4fc82a89488435b0e33563d30
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_161
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3120d2fca5ad43b929c516ce2ad9f
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_162
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b80c5a0fb83504dbd8c0f6927c8c0f
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_163
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d38500e4818d4489103bdec2be657
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_164
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960ab966364c2c4487934eef56c57bb
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_165
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dac26c49932d4a498467bae70ef4fc4
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_166
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb7800a5df2735468e7318946c041f1
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_167
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a666f2e783e3479f049c073e195ef
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_168
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d42c2bc3d2aad43b4b1cd410b5266a
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_169
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec93318c1991f8468cd436e1721fa2c
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebd22abad44f3499411c5a9f181c4a
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_171
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3799c8e2c565fb48bb7707b597eccce
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_172
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6816e0e247b6bf243b9b423690645703
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_173
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2df4959a7f050469450a63ba7e44f9
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_174
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc9820c21db4d40be41cb60cf1066e
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_175
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a3b53f2307a1446aebf91c76aacb9c
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_176
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 32
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f222aba39b08207429bfd43e286dec26
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_177
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98fed457377e54389b0c0ca34c0684
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_178
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47f2e2792e9ef419707309e47a7aa3
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_179
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e10881ef1af4814bbc004e993333e38
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_180
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea6538b31cd7c943b8f2a6cf8220ec1
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_181
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06b750cc1ad8d4db31a739aeb1ec85
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_182
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d38f1904f834d4382d549b60da98a4
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_183
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f55957d51ad5409eb065bd8d51fb0
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_184
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449b47a16725ad4f8557f9575a09700
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_185
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc21df8aa145d949943b6b6b0b3a4ea
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_186
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a526ecfd34c7f6246bbe6b321373fd96
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_187
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82c96bc3f34be48a1df355d60d4ff6
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robotTileset_188
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a304bc565ae4fcd4e901910a7a993604
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 23721d4162e85a7468847e6509a2788d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

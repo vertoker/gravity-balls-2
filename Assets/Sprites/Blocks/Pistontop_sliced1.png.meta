@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: c09c8e267b84123488fde8fb2ba9542f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: piston_top_sliced_0
+  - first:
+      213: 21300002
+    second: piston_top_sliced_1
+  - first:
+      213: 21300004
+    second: piston_top_sliced_2
+  - first:
+      213: 21300006
+    second: piston_top_sliced_3
+  - first:
+      213: 21300008
+    second: piston_top_sliced_4
+  - first:
+      213: 21300010
+    second: piston_top_sliced_5
+  - first:
+      213: 21300012
+    second: piston_top_sliced_6
+  - first:
+      213: 21300014
+    second: piston_top_sliced_7
+  - first:
+      213: 21300016
+    second: piston_top_sliced_8
+  - first:
+      213: 21300018
+    second: piston_top_sliced_9
+  - first:
+      213: 21300020
+    second: piston_top_sliced_10
+  - first:
+      213: 21300022
+    second: piston_top_sliced_11
+  - first:
+      213: 21300024
+    second: piston_top_sliced_12
+  - first:
+      213: 21300026
+    second: piston_top_sliced_13
+  - first:
+      213: 21300028
+    second: piston_top_sliced_14
+  - first:
+      213: 21300030
+    second: piston_top_sliced_15
+  - first:
+      213: 21300032
+    second: piston_top_sliced_16
+  - first:
+      213: 21300034
+    second: piston_top_sliced_17
+  - first:
+      213: 21300036
+    second: piston_top_sliced_18
+  - first:
+      213: 21300038
+    second: piston_top_sliced_19
+  - first:
+      213: 21300040
+    second: piston_top_sliced_20
+  - first:
+      213: 21300042
+    second: piston_top_sliced_21
+  - first:
+      213: 21300044
+    second: piston_top_sliced_22
+  - first:
+      213: 21300046
+    second: piston_top_sliced_23
+  - first:
+      213: 21300048
+    second: piston_top_sliced_24
+  - first:
+      213: 21300050
+    second: piston_top_sliced_25
+  - first:
+      213: 21300052
+    second: piston_top_sliced_26
+  - first:
+      213: 21300054
+    second: piston_top_sliced_27
+  - first:
+      213: 21300056
+    second: piston_top_sliced_28
+  - first:
+      213: 21300058
+    second: piston_top_sliced_29
+  - first:
+      213: 21300060
+    second: piston_top_sliced_30
+  - first:
+      213: 21300062
+    second: piston_top_sliced_31
+  - first:
+      213: 21300064
+    second: piston_top_sliced_32
+  - first:
+      213: 21300066
+    second: piston_top_sliced_33
+  - first:
+      213: 21300068
+    second: piston_top_sliced_34
+  - first:
+      213: 21300070
+    second: piston_top_sliced_35
+  - first:
+      213: 21300072
+    second: piston_top_sliced_36
+  - first:
+      213: 21300074
+    second: piston_top_sliced_37
+  - first:
+      213: 21300076
+    second: piston_top_sliced_38
+  - first:
+      213: 21300078
+    second: piston_top_sliced_39
+  - first:
+      213: 21300080
+    second: piston_top_sliced_40
+  - first:
+      213: 21300082
+    second: piston_top_sliced_41
+  - first:
+      213: 21300084
+    second: piston_top_sliced_42
+  - first:
+      213: 21300086
+    second: piston_top_sliced_43
+  - first:
+      213: 21300088
+    second: piston_top_sliced_44
+  - first:
+      213: 21300090
+    second: piston_top_sliced_45
+  - first:
+      213: 21300092
+    second: piston_top_sliced_46
+  - first:
+      213: 21300094
+    second: piston_top_sliced_47
+  - first:
+      213: 21300096
+    second: piston_top_sliced_48
+  - first:
+      213: 21300098
+    second: piston_top_sliced_49
+  - first:
+      213: 21300100
+    second: piston_top_sliced_50
+  - first:
+      213: 21300102
+    second: piston_top_sliced_51
+  - first:
+      213: 21300104
+    second: piston_top_sliced_52
+  - first:
+      213: 21300106
+    second: piston_top_sliced_53
+  - first:
+      213: 21300108
+    second: piston_top_sliced_54
+  - first:
+      213: 21300110
+    second: piston_top_sliced_55
+  - first:
+      213: 21300112
+    second: piston_top_sliced_56
+  - first:
+      213: 21300114
+    second: piston_top_sliced_57
+  - first:
+      213: 21300116
+    second: piston_top_sliced_58
+  - first:
+      213: 21300118
+    second: piston_top_sliced_59
+  - first:
+      213: 21300120
+    second: piston_top_sliced_60
+  - first:
+      213: 21300122
+    second: piston_top_sliced_61
+  - first:
+      213: 21300124
+    second: piston_top_sliced_62
+  - first:
+      213: 21300126
+    second: piston_top_sliced_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 32
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piston_top_sliced_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bf76c58974634ab67f8122789e265
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9614cdd8d436b14bae3be17ddf48fb0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac07e9b1fa02274ab102d146a491c1f
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8a27445c2c9446bcfe085ec4698c3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3bc97d36b24744906db7dc9272fb1
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb8bf41cab7724ca16768f04634061
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0f155d65bcd5d45bb767a43747a49b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c99d4b95cd4342a7eb30b91500d15
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171b6ccf6ea17b84a8474a235a6f5d7c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611640e524bb718409e93026f3efe8ed
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e984193633ae4595cd59e3948650e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8de7f504f9ac2f48a2c68d987a0b4b9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42137749fe427af46b0464e861831083
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214f173aa4756349a3cdfbf8fca803d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc98142d03faa648b4079cb6151c774
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piston_top_sliced_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff78049b2190d4ba6765985f43be3c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5a582d8c9c58b6c449533b1ceed95424
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

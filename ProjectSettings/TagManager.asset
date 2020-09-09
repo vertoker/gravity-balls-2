@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - WallPhysics
+  - Pooling
+  - DestroyingPower
+  - Laser
+  - Glass
+  - Saw
+  - Dynamic
+  - Bomb
+  - Explosion
+  - VelocityField
+  - Canvas
+  - Press2Read
+  - Boss
+  - Effect Teleport
+  - Enemy
+  - Tramp
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Trigger
+  - LaserActive
+  - BackGround
+  - Default2
+  - Player
+  - PhysicsAdditional
+  - Laser
+  - Teleport
+  - Tramp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

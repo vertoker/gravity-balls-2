@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a3cc0e89baf231543a2c9bdb25aac865
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arian AMU Mono
+  fontNames:
+  - Arian AMU Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83de759254c66c245b313ef47cc1add7, type: 3}
+  - {fileID: 12800000, guid: 230d183d0e712a840baa981e3076115f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
